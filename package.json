@@ -1,5 +1,5 @@
 {
-  "name": "react-wordcloud",
+  "name": "react-classed-wordcloud",
   "version": "1.0.1",
   "description": "Simple React + D3 wordcloud component with powerful features.",
   "license": "MIT",
