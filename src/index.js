@@ -59,7 +59,7 @@ function ReactWordCloud({
     }
   }, [maxWords, callbacks, options, selection, size, words]);
 
-  return <div ref={ref} style={{ height: '100%', width: '100%' }} {...rest} />;
+  return <div ref={ref} className="wordcloud-chart" {...rest} />;
 }
 
 ReactWordCloud.defaultProps = {
