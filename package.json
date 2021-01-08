@@ -1,12 +1,12 @@
 {
   "name": "react-wordcloud",
-  "version": "1.2.7",
+  "version": "1.0.0",
   "description": "Simple React + D3 wordcloud component with powerful features.",
   "license": "MIT",
-  "homepage": "https://react-wordcloud.netlify.com/",
-  "repository": "chrisrzhou/react-wordcloud",
-  "bugs": "https://github.com/chrisrzhou/react-wordcloud/issues",
-  "author": "Chris Zhou <chrisrzhou@pm.me> (https://chrisrzhou.io)",
+  "homepage": "https://github.com/TheFe91/react-wordcloud",
+  "repository": "thefe91/react-wordcloud",
+  "bugs": "https://github.com/thefe91/react-wordcloud/issues",
+  "author": "Alessandro Defendenti <alessandrodefendenti@gmail.com>",
   "keywords": [
     "react",
     "wordcloud",
